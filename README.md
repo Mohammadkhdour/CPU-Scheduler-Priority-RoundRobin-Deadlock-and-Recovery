@@ -58,7 +58,7 @@ pip install matplotlib
 ### 📂 Cloning the Repository
 To download and set up the project, use:
 ```sh
-git clone https://github.com/yourusername/OS-CPU-Scheduler.git
+git clone https://github.com/mohammadkhdour/OS-CPU-Scheduler.git
 cd OS-CPU-Scheduler
 ```
 
